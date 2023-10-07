@@ -1,7 +1,7 @@
 # Real-time Inland Empire Air Quality Monitor via ArcGIS
-In a world increasingly affected by environmental changes and urbanization, monitoring air quality has become paramount for the health and well-being of communities. This project, the Real-time Inland Empire Air Quality Monitor, emerges as a crucial tool to help residents, policymakers, and health professionals navigate this challenge in the Inland Empire region.
+In a world increasingly affected by environmental changes and urbanization, monitoring air quality has become paramount for the health and well-being of communities. This project aims to help residents, policymakers, and health professionals navigate this challenge in the Inland Empire region.
 
-Utilizing the powerful capabilities of ArcGIS, this repository presents a dynamic mapping solution that reflects air pollution levels in near real-time. By collating data from diverse, trusted sources, the tool strives to deliver accurate, timely, and actionable insights to its users. Whether you're a resident planning your daily commute, an event organizer choosing a venue, or a health professional advising patients, this tool offers invaluable insights to make informed decisions.
+Utilizing the powerful capabilities of ArcGIS, this repository presents a dynamic mapping solution that reflects air pollution levels in near real-time. By collating data from diverse, trusted sources, the tool strives to deliver users accurate, timely, and actionable insights. Whether you're a resident planning your daily commute, an event organizer choosing a venue or a health professional advising patients, this tool offers invaluable insights to make informed decisions.
 
 ## Key Features:
 
