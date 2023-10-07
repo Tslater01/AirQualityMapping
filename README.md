@@ -1,6 +1,6 @@
-# Real-time Inland Empire Air Quality Monitor via ArcGIS
+# Real-time Air Quality Monitor via ArcGIS
 
-In today's rapidly changing environment, characterized by increasing urbanization and fluctuating climatic patterns, the need to monitor air quality has never been more critical. This project serves as a beacon for residents, policymakers, and health professionals in the Inland Empire region, illuminating the complexities of air quality dynamics.
+The need to monitor air quality has never been more critical in today's rapidly changing environment, characterized by increasing urbanization and fluctuating climatic patterns. This project serves as a beacon for residents, policymakers, and health professionals, illuminating the complexities of air quality dynamics.
 
 Harnessing the advanced capabilities of ArcGIS Pro, this repository showcases a cutting-edge mapping solution, updating air pollution levels in near real-time. The tool aims beyond data visualization, offering precise, prompt, and actionable insights. Sourcing data from multiple esteemed sources, including real-time updates from **World Air Quality - OpenAQ**, guarantees that all users, whether daily commuters or health advisors, access the vital information they require.
 
