@@ -1,4 +1,4 @@
-# Real-time Air Quality Monit
+# Real-time Air Quality Monito
 
 The need to monitor air quality has never been more critical in today's rapidly changing environment, characterized by increasing urbanization and fluctuating climatic patterns. This project serves as a beacon for residents, policymakers, and health professionals, illuminating the complexities of air quality dynamics.
 
